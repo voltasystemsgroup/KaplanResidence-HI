@@ -1,0 +1,3 @@
+<Device Model="MC2W">
+   <Network Type="Cresnet" Id="01"/>
+</Device>
