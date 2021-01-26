@@ -2470,9 +2470,9 @@ Rx=1449
 Ry=457
 Xm=-1
 Ym=-1
-SH=39
+SH=34
 Z=100
-Ht=4
+Ht=1
 Hi=4
 ]
 [
@@ -2484,10 +2484,11 @@ Rx=1449
 Ry=914
 Xm=-1
 Ym=-1
-SH=47
+SH=40
 Z=100
-Ht=1
-Hi=1
+P=486
+Ht=4
+Hi=50
 ]
 [
 ObjTp=Et
@@ -3521,9 +3522,8 @@ O42=43
 O43=44
 O46=50
 O47=48
-O48=47
+O48=134
 O49=53
-O50=134
 ]
 [
 ObjTp=Sm
@@ -4165,7 +4165,7 @@ Nm=ATV01_ARROW_LEFT
 [
 ObjTp=Sg
 H=47
-Nm=HR01_SOURCE_03
+Nm=//HR01_SOURCE_03
 ]
 [
 ObjTp=Sg
