@@ -1,0 +1,8 @@
+<Device Model="MC4">
+   <Network Type="Cresnet" Id="01"/>
+   <Network Type="Ethernet" Id="02"/>
+   <Network Type="RF" Id="08">
+      <Device Model="HR-150,HRI-150" DeviceId="03" Name="TPR01"/>
+      <Device Model="HR-150,HRI-150" DeviceId="04" Name="TPR02"/>
+   </Network>
+</Device>
